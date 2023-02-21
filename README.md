@@ -14,4 +14,4 @@
 
 ##
 
-<p>Este projeto foi criado com a ferramenta Vite <img src="./public/vite.svg"> integrada com o React.js <img src="./icon-react.svg"></p>
+<p>Este projeto foi criado com a ferramenta Vite <img width="30" height="20" src="./public/vite.svg"> integrada com o React.js <img width="30" height="20" src="./icon-react.svg"></p>
